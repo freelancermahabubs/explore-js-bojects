@@ -1,0 +1,9 @@
+1. JavaScript Object.freeze() Method.
+
+2. array er betorer array etake bola hoi 2 daimanstion.
+---> for Example: [
+  [ 'color', 'Yellow' ],
+  [ 'price', '50' ],
+  [ 'isCleaned', true ],
+  [ 'capacity', 1 ]
+]
